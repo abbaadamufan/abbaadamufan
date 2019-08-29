@@ -1,0 +1,28 @@
+
+body{
+background-color: rgb(17, 62, 78);
+
+}
+
+#main{
+    width:1300px;
+	height:2540px;
+	background-color: rgb(255, 254, 253);
+	margin:auto;
+}
+
+#center{
+    margin: auto;
+    position: absolute;
+    
+}
+
+.image{
+    width:263px;
+    height:338px;
+    margin: auto;
+}
+
+#head p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
